@@ -27,12 +27,12 @@
 
   ## Links
   ---
-  ![Repo](https://github.com/CodeWarrior-debug/hw8-Updated-Portfolio)
-  ![Live](https://codewarrior-debug.github.io/hw8-Updated-Portfolio/)
+  ![Repo](https://github.com/CodeWarrior-debug/The_Development_Portfolio_of_James_Jordan)
+  ![Live](https://codewarrior-debug.github.io/The_Development_Portfolio_of_James_Jordan)
 
   ## Contributing
   ---
-  This was entirely done by me. No donations, please.
+  The best offering you can give is a great job offer.
 
   ## Questions
   ---
