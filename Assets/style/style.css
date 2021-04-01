@@ -1,6 +1,12 @@
+body{
+    background-color:#020202;
+    color:#503B20;
+}
+
 h1{
     display: flex;
     font-size: min(max(1rem, 8vw), 24px);
+    color: #fff;
 }
 
 nav p{
@@ -18,6 +24,7 @@ nav p{
 
 .myheader{
     height: 15%;
+    padding-top:2%;
 }
 
 .big-pic{
@@ -29,6 +36,14 @@ nav p{
 
 img{
     margin:2%;
+}
+
+nav a{
+    font-size: min(max(1rem, 1.25vw), 18px);
+}
+
+.contactme{
+    font-size: min(max(1rem, 1.25vw), 18px); 
 }
 
 nav{
@@ -45,10 +60,11 @@ nav{
     flex-direction: row;
     justify-content: center;
     align-items: center;
+    margin-top: 4%;
 }
 
 h2{
-    font-size: min(max(1rem, 1.5vw), 20px);
+    font-size: min(max(1rem, 1.25vw), 20px);
     transform: rotate(180deg);
     writing-mode: vertical-rl;
     left: 0%;
@@ -56,6 +72,7 @@ h2{
     flex-direction: row;
     justify-content: center;
     align-items: center;
+    color: #fff;
 }
 
 .row{
@@ -69,6 +86,7 @@ h2{
 a{text-decoration: underline;
     color: blue;
 }
+
 .wtitle{
     font-size: min(max(1rem, 1.5vw), 20px);
     transform: rotate(-90deg);
@@ -77,6 +95,7 @@ a{text-decoration: underline;
     flex-direction: row;
     justify-content: center;
     align-items: center;
+    color: #fff;
 }
 
 .work-desc{
@@ -94,3 +113,32 @@ a{text-decoration: underline;
 img:hover{
     opacity: 66%;
 }
+
+p {
+    color: #fff;
+}
+
+a {
+    color: salmon;
+}
+
+a:hover {
+    color: #503b31;
+}
+
+.myheadshot {
+    align-items: center;
+    justify-content: center;
+    width: .02vw;
+    max-width: 200px;
+    height: 25vh;
+    border-radius: 40px;
+    
+}
+
+.headshotspace {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
